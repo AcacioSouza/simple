@@ -1,0 +1,16 @@
+{
+  "messages": {
+    "login": {
+      "invalidCredentials": "Email e/ou senha inválidos",
+      "invalidEmail": "Email deve ser um email válido"
+    },
+    "home": {
+      "welcomeCustomer": "Serverest Store",
+      "welcomeAdmin": "Este é o seu sistema para administrar seu ecommerce."
+    },
+    "registration": {
+      "title": "Cadastro",
+      "duplicateEmail": "Este email já está sendo usado"
+    }
+  }
+}

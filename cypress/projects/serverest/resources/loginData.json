@@ -1,0 +1,24 @@
+{
+  "usuarios": {
+    "customer": {
+      "email": "QualityAssuranceUser@cypress.com",
+      "password": "Admin123@"
+    },
+    "admin": {
+      "email": "QualityAssuranceAdmin@cypress.com",
+      "password": "Admin123@"
+    },
+    "customerInvalido": {
+      "email": "QualityAssuranceUser@invalidUSer.com",
+      "password": "Admin123@"
+    },
+    "adminInvalido": {
+      "email": "QualityAssuranceAdmin@invalidAdmin.com",
+      "password": "Admin123@"
+    },
+    "wrongEmailFormat": {
+      "email": "QualityAssuranceAdmin@test",
+      "password": "Admin123@"
+    }
+  }
+}

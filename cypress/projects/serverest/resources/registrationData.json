@@ -1,0 +1,14 @@
+{
+  "usuarios": {
+    "customer": {
+      "name": "QualityAssuranceUser",
+      "email": "QualityAssuranceUser@cypress.com",
+      "password": "Admin123@"
+    },
+    "admin": {
+      "name": "QualityAssuranceAdmin",
+      "email": "QualityAssuranceAdmin@cypress.com",
+      "password": "Admin123@"
+    }
+  }
+}
