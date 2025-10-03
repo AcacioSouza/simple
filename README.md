@@ -10,7 +10,7 @@ This project includes both **UI (end-to-end)** tests and **API** tests.
 1. Clone the repository:
    ```bash
    git clone https://github.com/AcacioSouza/simple
-   cd cypress-serverest-tests
+   cd simple
    ```
 
 2. Install dependencies:
