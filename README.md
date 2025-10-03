@@ -1,6 +1,6 @@
 # Cypress E2E + API Tests - ServeRest
 
-Automated tests for [ServeRest](https://github.com/PauloGoncalvesBH/ServeRest) using **Cypress**, **Cucumber (Gherkin)**, and the **Page Objects pattern**.  
+Automated tests for [ServeRest API](https://github.com/PauloGoncalvesBH/ServeRest) and [ServeRest UI](https://front.serverest.dev/login) using **Cypress**, **Cucumber (Gherkin)**, and the **Page Objects pattern**.  
 This project includes both **UI (end-to-end)** tests and **API** tests.
 
 ---
